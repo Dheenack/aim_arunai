@@ -6,3 +6,5 @@
 - Palini Sumukhi
 - Barani Sri
 - Dheena S
+
+### The dataset used so far in the project is CICIDS 2017 
